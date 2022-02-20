@@ -3,7 +3,7 @@
 
 ### 👋 Greetings
 
-I am a self-taught full-stack developer. I specialize in web design and writing web-based applications.
+I am a self-taught full-stack developer. I specialize in web and UX design.
 
 Contact me on [Keybase](https://keybase.io/tetraphobia)! 
 
