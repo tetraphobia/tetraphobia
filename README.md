@@ -5,8 +5,6 @@
 
 I am a self-taught full-stack developer. I specialize in web and UX design.
 
-Contact me on [Keybase](https://keybase.io/tetraphobia)! 
-
 ### 👨‍💻 Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
