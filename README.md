@@ -5,8 +5,8 @@ I enjoy a smorgasbord of different technology-related activities. I write softwa
 Miraculously, working as a software engineer has not ruined my enjoyment of programming yet.
 
 So yeah, that's me.
-
- ______ 
+```
+ ------ 
 < meow >
  ------ 
         \   ^__^
@@ -14,3 +14,4 @@ So yeah, that's me.
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
